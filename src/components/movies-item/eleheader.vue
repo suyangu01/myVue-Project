@@ -6,7 +6,7 @@
       <span class="btn" @click="submits">搜索</span>
     </div>
     <div class="serarch-list" v-show="shows">
-      <div class="exit"  @click="submits"><span class="icon-cheveron-left"></span>返回</div>
+      <div class="exit"  @click="submits"><span class="icon-cheveron-left"></span>返回吧</div>
       <div class="movies">影视</div>
         <div  class="contents" ref="search1">
           <ul class="search1">
